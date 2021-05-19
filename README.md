@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://><img src="https://i.ibb.co/F4HBKqm/m7x.png" alt="m7z"></a>
+  <a href="https://https://github.com/mostafa897/mostafa-7x><img src="https://i.ibb.co/F4HBKqm/m7x.png" alt="m7x"></a>
   <br>
   TBomb v2.1b
   <br>
@@ -18,7 +18,7 @@
 - The application requires active internet connection to contact the APIs
 - You would not be charged for any SMS/calls dispatched as a consequence of this script
 - For best performance, use single thread with considerable delay time
-- Always ensure that you are using the latest version of TBomb and have Python 3
+- Always ensure that you are using the latest version of m7x and have Python 3
 - This application must not be used to cause harm/discomfort/trouble to others
 - By using this, you agree that you cannot hold the contributors responsible for any misuse
 
@@ -57,7 +57,7 @@ Before continuing make sure following requirements are satisfied:
 Install `tbomb` package by running:
 
 ```shell script
-pip3 install tbomb
+pip3 install m7x
 ```
 
 Run TBomb by just typing:
@@ -107,9 +107,9 @@ chmod +x TBomb.sh
 To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/mostafa897/mostafa-7x
 cd TBomb
-bash TBomb.sh
+bash m7x.sh
 ```
 
 #### For MacOS
@@ -129,9 +129,9 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
-bash TBomb.sh
+git clone https://github.com/mostafa897/mostafa-7x
+cd m7x
+bash m7x.sh
 ```
 
 
